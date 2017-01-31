@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffeb
+  background-color: #fffffd
 
 }
 
@@ -11,10 +11,18 @@ body {
 #vitrine {
   width: 510px;
   padding-top: 16px;
+  padding-bottom: 10px;
  }
 
+@media only screen and (max-width: 500px) {
+    #vitrine {
+      width: 100%;
+    }
+}
+
+
 .paragraphe {
-  width: 90px;
+  width: 85px;
 }
 
 p {
