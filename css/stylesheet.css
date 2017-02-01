@@ -33,3 +33,10 @@ p {
 #reservation {
   padding-bottom: 10px;
 }
+
+.footer {
+  font-size: 10px;
+}
+.fa-heart {
+  color:red;
+}
