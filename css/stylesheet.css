@@ -36,6 +36,8 @@ p {
 
 .footer {
   font-size: 10px;
+  color: grey;
+  padding-top: 10px;
 }
 .fa-heart {
   color:red;
